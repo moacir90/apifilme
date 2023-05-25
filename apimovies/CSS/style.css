@@ -1,0 +1,28 @@
+body {
+    background-color: #f9f9f9;
+    font-family: 'Segoe UI';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+#moviesContainer{
+    display: flex;
+
+
+}
+
+.movie{
+
+
+}
+
+img{
+
+    
+}
